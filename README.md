@@ -1,14 +1,14 @@
-## robust textile input
+##zPatch - robust textile input
 
-This is the home of zPatch - a textile sensor design aimed at making wearable textile sensors more robust and versetile.
+This is the home of zPatch - a sensor design for more robust and versetile textile input.
 
 zPatches were presented as a [paper at TEI](www.putthelinkhere).
 
 ### How to build a zPatch
 
-A step-by step tutorial on how to build a zPatch zan be found on [Instructables].
+A step-by step tutorial on how to build a zPatch zan be found on [Instructables](www.puttheotherlinkhere.com).
 
-We also created a tiny DIY set that we distribute at conferences and events. The DIY set has its own [repo].
+We also created a tiny DIY set that we distribute at conferences and events. The DIY set has its own [repo](the.link).
 
 
 ### The Code
