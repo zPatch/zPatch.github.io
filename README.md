@@ -1,37 +1,21 @@
-## testing the zPatch page
+## robust textile input
 
-You can use the [editor on GitHub](https://github.com/zPatch/zPatch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the home of zPatch - a textile sensor design aimed at making wearable textile sensors more robust and versetile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+zPatches were presented as a [paper at TEI](www.putthelinkhere).
 
-### Markdown
+### How to build a zPatch
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A step-by step tutorial on how to build a zPatch zan be found on [Instructables].
 
-```markdown
-Syntax highlighted code block
+We also created a tiny DIY set that we distribute at conferences and events. The DIY set has its own [repo].
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### The Code
 
-1. Numbered
-2. List
+Once you've built it, zPatch connects to two Analog Inputs of your Arduino. Program it with code you can [find here].
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Evaluation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zPatch/zPatch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We demonstrated the robustness and the ability to detect multiple types of input by recording different gestures and classifying them using Random Forest. The recorded data and the software for visualizing and preprocessing the data can be [found here]
