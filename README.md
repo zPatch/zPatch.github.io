@@ -1,6 +1,8 @@
- ## zPatch - robust textile input
+## zPatch - robust textile input
 
 This is the home of zPatch - a sensor design for more robust and versetile textile input.
+
+![](zPatchImage_lessSaturation.jpg)
 
 zPatches were presented as a [paper at TEI](www.putthelinkhere).
 
