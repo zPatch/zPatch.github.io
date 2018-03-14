@@ -1,4 +1,4 @@
-## zPatch - robust textile input
+ ## zPatch - robust textile input
 
 This is the home of zPatch - a sensor design for more robust and versetile textile input.
 
@@ -20,4 +20,5 @@ Once you've built it, zPatch connects to two Analog Inputs of your Arduino. Prog
 
 We demonstrated the robustness and the ability to detect multiple types of input by recording different gestures and classifying them using Random Forest. The recorded data and the software for visualizing and preprocessing the data can be [found here]
 
-##zPatch is a project by [Paul Strohmeier](www.paulstrohmeier.info), [Jarrod Knibbe](www.jarrodknibbe.com), [Sebastian Boring](http://www.sebastianboring.com/) and [Kasper Hornbæk](www.kasperhornbaek.dk). The work was done as part of the [Body-UI](http://www.body-ui.eu/) project, supported by ERC Grant 648785
+## Credits
+zPatch is a project by [Paul Strohmeier](www.paulstrohmeier.info), [Jarrod Knibbe](www.jarrodknibbe.com), [Sebastian Boring](http://www.sebastianboring.com/) and [Kasper Hornbæk](www.kasperhornbaek.dk). The work was done as part of the [Body-UI](http://www.body-ui.eu/) project, supported by ERC Grant 648785
