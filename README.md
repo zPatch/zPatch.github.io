@@ -1,4 +1,4 @@
-##zPatch - robust textile input
+## zPatch - robust textile input
 
 This is the home of zPatch - a sensor design for more robust and versetile textile input.
 
