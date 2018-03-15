@@ -6,6 +6,8 @@ This is the home of zPatch - a sensor design for more robust and versetile texti
 
 zPatches were presented as a [paper at TEI 2018](zPatch.github.io/TEI2018_zPatch.pdf).
 
+Also, feel free to check out our [youtube video](https://www.youtube.com/my_videos?o=U)
+
 ### How to build a zPatch
 
 A step-by step tutorial on how to build a zPatch zan be found on [Instructables](www.puttheotherlinkhere.com).
