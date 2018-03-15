@@ -26,5 +26,5 @@ We demonstrated the robustness and the ability to detect multiple types of input
 
 The recorded data and the software for visualization and preprocessing can be [found here](https://github.com/fkeel/zPatch)
 
-# Credits
+### Credits
 zPatch is a project by [Paul Strohmeier](http://www.paulstrohmeier.info), [Jarrod Knibbe](http://www.jarrodknibbe.com), [Sebastian Boring](http://www.sebastianboring.com/) and [Kasper Hornbæk](http://www.kasperhornbaek.dk). The work was done as part of the [Body-UI](http://www.body-ui.eu/) project, supported by ERC Grant 648785
