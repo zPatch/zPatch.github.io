@@ -4,7 +4,7 @@ This is the home of zPatch - a sensor design for more robust and versetile texti
 
 ![](zPatchImage_lessSaturation.jpg)
 
-zPatches were presented as a [paper at TEI](zPatch.github.io/TEI2018_zPatch.pdf).
+zPatches were presented as a [paper at TEI 2018](zPatch.github.io/TEI2018_zPatch.pdf).
 
 ### How to build a zPatch
 
