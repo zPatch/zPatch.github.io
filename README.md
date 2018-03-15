@@ -10,7 +10,7 @@ Also, feel free to check out our [youtube video](https://www.youtube.com/my_vide
 
 ### How to build a zPatch
 
-A step-by step tutorial on how to build a zPatch zan be found on [Instructables](www.puttheotherlinkhere.com).
+A step-by step tutorial on how to build a zPatch zan be found on [Instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input).
 
 ### The Code
 
