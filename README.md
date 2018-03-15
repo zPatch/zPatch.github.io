@@ -23,7 +23,7 @@ We demonstrated the robustness and the ability to detect multiple types of input
 
 An interesting point to mention is that combining resistive and capacitive data not only doubles the available data points, we also can learn from their behavior relative to eachother. The graph below shows how the difference in attack of both signals helps classify the gestures correctly:
 
-![](morehtansumofparts.jpg)
+![](morethansumofparts.jpg)
 
 The recorded data and the software for visualization and preprocessing can be [found here](https://github.com/fkeel/zPatch)
 
