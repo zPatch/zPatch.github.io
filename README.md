@@ -1,6 +1,6 @@
 ## zPatch - robust textile input
 
-This is the home of zPatch - a sensor design for more robust and versetile textile input.
+This is the home of zPatch - a sensor design for more robust and versatile textile input.
 
 ![](zPatchImage_lessSaturation.jpg)
 
@@ -10,7 +10,7 @@ Also, feel free to check out our [youtube video](https://www.youtube.com/my_vide
 
 ### How to build a zPatch
 
-A step-by step tutorial on how to build a zPatch zan be found on [Instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input).
+A step-by step tutorial on how to build a zPatch can be found on [Instructables](https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input).
 
 ### The Code
 
@@ -19,11 +19,11 @@ Once you've built it, zPatch connects to two Analog Inputs of your Arduino. Prog
 
 ### Evaluation
 
-We demonstrated the robustness and the ability to detect multiple types of input by recording different gestures and classifying them using Random Forest. We collected 400 measures from ten participants. Of these 400 measures, 300 were noise and the remeining were 5 different input types (Hover, Swipe, Gentle Tap, Strong Tap, Push). Using only the resistive data, we found ~7 instances of noise classified as an input gesture (M: 7.2, SD: 3.42). The capacitive data performed better (M: 4.5, SD: 2.16) and combining both performed  best (M: 3.5, SD: 2.57). Using the combined data, we were able to classify all 6 measure types (Noise + 5 gestures) with a precision and reall of 0.95. 
+We demonstrated the robustness and the ability to detect multiple types of input by recording different gestures and classifying them using Random Forest. We collected 400 measures from ten participants. Of these 400 measures, 300 were noise and the remaining were 5 different input types (Hover, Swipe, Gentle Tap, Strong Tap, Push). Using only the resistive data, we found ~7 instances of noise classified as an input gesture (M: 7.2, SD: 3.42). The capacitive data performed better (M: 4.5, SD: 2.16) and combining both performed  best (M: 3.5, SD: 2.57). Using the combined data, we were able to classify all 6 measure types (Noise + 5 gestures) with a precision and recall of 0.95. 
 
 ![](dataComparison.jpg)
 
-An interesting point to mention is that combining resistive and capacitive data not only doubles the available data points, we also can learn from their behavior relative to eachother. The graph below shows how the difference in attack of both signals helps classify the gestures correctly:
+An interesting point to mention is that combining resistive and capacitive data not only doubles the available data points, we also can learn from their behavior relative to each other. The graph below shows how the difference in attack of both signals helps classify the gestures correctly:
 
 ![](morethansumofparts.jpg)
 
