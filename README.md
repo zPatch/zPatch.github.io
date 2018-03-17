@@ -1,3 +1,4 @@
+
 ## zPatch - robust textile input
 
 This is the home of zPatch - a sensor design for more robust and versatile textile input.
@@ -10,9 +11,9 @@ To get an idea of the general concept, check out this [youtube video](https://ww
 
 We recorded some additional footage using Arduino's Serial Plotter. You can see the raw output in three different scenarios here:
 
-[Demo 1: Basic Touch Dynamics](https://www.youtube.com/watch?v=oIUlfvz92KY)
-[Demo 2: On-Body Interaction](https://www.youtube.com/watch?v=47FtzlK8eNk)
-[Demo 3: Interactions with an Object](https://www.youtube.com/watch?v=6mnFnEgJezA)
+*[Demo 1: Basic Touch Dynamics](https://www.youtube.com/watch?v=oIUlfvz92KY)
+*[Demo 2: On-Body Interaction](https://www.youtube.com/watch?v=47FtzlK8eNk)
+*[Demo 3: Interactions with an Object](https://www.youtube.com/watch?v=6mnFnEgJezA)
 
 The above videos use an Arduino Uno, running [this code](https://github.com/zPatch/zPatch.github.io/tree/master/ArduinoCode) and a zPatch connected to pins A0 and A1 with crocodile clips.
 
