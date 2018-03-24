@@ -40,6 +40,12 @@ The recorded data and the software for visualization and preprocessing can be [f
 
 More details can be found in our [paper](zPatch.github.io/TEI2018_zPatch.pdf).
 
+### Demonstration at TEI 2018
+
+We created sample-kits for making this sensor and distributed them at TEI 2018 [(more info here)](https://github.com/zPatch/instructions). Some people assembled their own sensors on the spot. Thanks to (from left to right) Michaela Hohnauer, Carsten Temming, Simran, Marina Toeters and Young Suk Lee for helping to demonstrate how these are made :-)
+
+![](madeit.jpg)
+
 ### Contact
 
 E-mail questions or thoughts or ideas or rants to paul dot strohmeier at gmail dot com.
