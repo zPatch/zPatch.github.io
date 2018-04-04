@@ -7,7 +7,7 @@ This is the home of zPatch - a sensor design for more robust and versatile texti
 
 zPatches were presented as a [paper at TEI 2018](zPatch.github.io/TEI2018_zPatch.pdf).
 
-To get an idea of the general concept, check out this [youtube video](https://www.youtube.com/my_videos?o=U)
+To get an idea of the general concept, check out this [youtube video](https://youtu.be/88QgGQLsvpo)
 
 We recorded some additional footage using Arduino's Serial Plotter. You can see the raw output in three different scenarios here:
 
