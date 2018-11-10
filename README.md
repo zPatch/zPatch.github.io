@@ -58,7 +58,10 @@ zPatch is published in the [ACM Digital Library](https://dl.acm.org/citation.cfm
 Citation:
 > Paul Strohmeier, Jarrod Knibbe, Sebastian Boring, and Kasper Hornbæk. 2018. zPatch: Hybrid Resistive/Capacitive eTextile Input. In Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '18). ACM, New York, NY, USA, 188-198. DOI: https://doi.org/10.1145/3173225.3173242
 
-### misc...
+
+
+
+#### misc...
 Students at ITP in New York are building zPatches :-)
 
 [Reproducing the 3*3 zPatch](https://www.danioved.com/blog/posts/soft-sensing/multi-sensor-z-patch/)
